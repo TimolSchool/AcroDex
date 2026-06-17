@@ -21,7 +21,7 @@
     "definition": "Domain Name System",
     "description": "Système de noms de domaine. Service informatique distribuant des informations sur les noms de domaine, associant notamment des adresses IP aux adresses lisibles par l'homme.",
     "category": "Réseau",
-    "createdAt": 1781632203093
+    "createdAt": 1781634451564
   },
   {
     "id": "6",
@@ -29,7 +29,7 @@
     "definition": "Key Performance Indicator",
     "description": "Indicateur clé de performance. Mesure chiffrée utilisée pour évaluer l'efficacité d'une action ou d'une campagne par rapport à des objectifs définis.",
     "category": "Business",
-    "createdAt": 1781545803093
+    "createdAt": 1781548051564
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "definition": "Search Engine Optimization",
     "description": "Optimisation pour les moteurs de recherche. Ensemble de techniques visant à améliorer le positionnement d'un site web dans les résultats de recherche.",
     "category": "Marketing",
-    "createdAt": 1781459403093
+    "createdAt": 1781461651564
   },
   {
     "id": "4",
@@ -45,7 +45,7 @@
     "definition": "Representational State Transfer",
     "description": "Style d'architecture logicielle définissant un ensemble de contraintes à utiliser pour créer des services web. Repose généralement sur le protocole HTTP et l'utilisation des verbes GET, POST, PUT, DELETE.",
     "category": "Tech",
-    "createdAt": 1781373003093
+    "createdAt": 1781375251564
   },
   {
     "id": "3",
@@ -53,15 +53,15 @@
     "definition": "JavaScript Object Notation",
     "description": "Format de données textuel dérivé de la notation des objets du langage JavaScript, très utilisé pour structurer et échanger des données entre un serveur et un client.",
     "category": "Tech",
-    "createdAt": 1781286603093
+    "createdAt": 1781288851564
   },
   {
     "id": "2",
     "term": "PWA",
     "definition": "Progressive Web App",
     "description": "Application web progressive. Une application web qui utilise des technologies modernes pour offrir une expérience utilisateur similaire à celle d'une application native sur mobile et ordinateur.",
-    "category": "Marketing",
-    "createdAt": 1781200203093
+    "category": "Tech",
+    "createdAt": 1781202451564
   },
   {
     "id": "1",
@@ -69,6 +69,6 @@
     "definition": "Application Programming Interface",
     "description": "Interface de programmation d'application. Un ensemble de définitions et de protocoles qui facilite la création et l'intégration de logiciels d'applications.",
     "category": "Tech",
-    "createdAt": 1781113803093
+    "createdAt": 1781116051564
   }
 ]
