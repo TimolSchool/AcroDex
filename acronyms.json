@@ -1,0 +1,74 @@
+[
+  {
+    "id": "i9h2ol23z",
+    "term": "A",
+    "definition": "a",
+    "description": "a",
+    "category": "Tech",
+    "createdAt": 1781718773133
+  },
+  {
+    "id": "4sqc8x3gt",
+    "term": "A",
+    "definition": "a",
+    "description": "a",
+    "category": "a",
+    "createdAt": 1781718764129
+  },
+  {
+    "id": "7",
+    "term": "DNS",
+    "definition": "Domain Name System",
+    "description": "Système de noms de domaine. Service informatique distribuant des informations sur les noms de domaine, associant notamment des adresses IP aux adresses lisibles par l'homme.",
+    "category": "Réseau",
+    "createdAt": 1781632203093
+  },
+  {
+    "id": "6",
+    "term": "KPI",
+    "definition": "Key Performance Indicator",
+    "description": "Indicateur clé de performance. Mesure chiffrée utilisée pour évaluer l'efficacité d'une action ou d'une campagne par rapport à des objectifs définis.",
+    "category": "Business",
+    "createdAt": 1781545803093
+  },
+  {
+    "id": "5",
+    "term": "SEO",
+    "definition": "Search Engine Optimization",
+    "description": "Optimisation pour les moteurs de recherche. Ensemble de techniques visant à améliorer le positionnement d'un site web dans les résultats de recherche.",
+    "category": "Marketing",
+    "createdAt": 1781459403093
+  },
+  {
+    "id": "4",
+    "term": "REST",
+    "definition": "Representational State Transfer",
+    "description": "Style d'architecture logicielle définissant un ensemble de contraintes à utiliser pour créer des services web. Repose généralement sur le protocole HTTP et l'utilisation des verbes GET, POST, PUT, DELETE.",
+    "category": "Tech",
+    "createdAt": 1781373003093
+  },
+  {
+    "id": "3",
+    "term": "JSON",
+    "definition": "JavaScript Object Notation",
+    "description": "Format de données textuel dérivé de la notation des objets du langage JavaScript, très utilisé pour structurer et échanger des données entre un serveur et un client.",
+    "category": "Tech",
+    "createdAt": 1781286603093
+  },
+  {
+    "id": "2",
+    "term": "PWA",
+    "definition": "Progressive Web App",
+    "description": "Application web progressive. Une application web qui utilise des technologies modernes pour offrir une expérience utilisateur similaire à celle d'une application native sur mobile et ordinateur.",
+    "category": "Marketing",
+    "createdAt": 1781200203093
+  },
+  {
+    "id": "1",
+    "term": "API",
+    "definition": "Application Programming Interface",
+    "description": "Interface de programmation d'application. Un ensemble de définitions et de protocoles qui facilite la création et l'intégration de logiciels d'applications.",
+    "category": "Tech",
+    "createdAt": 1781113803093
+  }
+]
